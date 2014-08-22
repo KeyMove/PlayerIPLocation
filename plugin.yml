@@ -1,0 +1,5 @@
+## YAML Template.
+---
+name: PlayerIPLocation
+main: playeriplocation.PlayerIPLocation
+version: 1.0.0
